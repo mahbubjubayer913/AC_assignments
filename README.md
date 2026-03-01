@@ -1,5 +1,5 @@
 Added Colab notebook and CSV files
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/github/mahbubjubayer913/AC_assignments/blob/main/assignment_1.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)
+(https://colab.research.google.com/github/mahbubjubayer913/AC_assignments/blob/main/assignment_1.ipynb)]
